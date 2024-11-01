@@ -59,7 +59,7 @@ header {
 
 .galeria{
     
-     margin-top: 110px;
+     margin-top: 60px;
      margin-left: 50px;
      margin-right: 50px;
      margin-bottom: 60px;
@@ -126,3 +126,14 @@ audio {
 }
 
 
+h1{
+     text-align: center;
+     font-size: 22px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     margin-top: 60px;
+     border: solid grey 1px;
+     border-radius: 10px;
+     margin-left: 400px;
+     margin-right: 400px;
+     padding: 8px;
+}
